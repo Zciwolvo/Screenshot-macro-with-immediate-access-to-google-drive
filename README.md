@@ -4,7 +4,7 @@ I needed to share screenshots with few other users so to simplify the proccess i
 
 Program is very simple to use all you need to do is:
 
--to change ID to that of your own google drive folder
+-change ID to that of your own google drive folder
 
 -get client.secrets.json from https://console.cloud.google.com/apis/dashboard you can follow this tutorial https://d35mpxyw7m7k7g.cloudfront.net/bigdata_1/Get+Authentication+for+Google+Service+API+.pdf
 
