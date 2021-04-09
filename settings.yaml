@@ -1,0 +1,12 @@
+client_config_backend: settings
+client_config:
+  client_id: {{str}}
+  client_secret: {{str}}
+
+save_credentials: {{bool}}
+save_credentials_backend: {{str}}
+save_credentials_file: {{str}}
+
+get_refresh_token: {{bool}}
+
+
