@@ -34,7 +34,6 @@ while True:
                 except InvalidConfigError:
                     print ("InvalidConfigError")
                     pass
-                #https://d35mpxyw7m7k7g.cloudfront.net/bigdata_1/Get+Authentication+for+Google+Service+API+.pdf
             else:
                 os.mkdir('Screenshots\%s'% (d3))    # if path didn't exist before it creates secondary path
                 myScreenshot.save(r'Screenshots\%s\%s' % (d3,dt_string))       # Saving screenshot
