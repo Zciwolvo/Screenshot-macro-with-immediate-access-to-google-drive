@@ -8,4 +8,6 @@ The program is very simple to use. All you need to do is:
 - get `client.secrets.json` from [here](https://console.cloud.google.com/apis/dashboard). You can follow [this tutorial](https://d35mpxyw7m7k7g.cloudfront.net/bigdata_1/Get+Authentication+for+Google+Service+API+.pdf),
 - Optionaly, you can set up `settings.yaml` file with your google drive api data, if you don't want to log on Google every time you use it. It's described how to set it up on [this site](https://pythonhosted.org/PyDrive/oauth.html#automatic-and-custom-authentication-with-settings-yaml.).
 
+**If you have issues with Access token try removing your `credentials.json` file and try again**
+
 You are free to use it however you want!
